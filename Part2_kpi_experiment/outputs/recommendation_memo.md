@@ -1,4 +1,4 @@
-# Task 8: Guardrail Metrics Evaluation
+# Guardrail Metrics Evaluation
 
 ## Objective
 
